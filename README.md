@@ -2,10 +2,10 @@
 
 Aim
   - To classify fake news based on the title using NLP and Neural Networks
-- 1st Model
+1st Model
     - Used Naive Bayes and Passive Aggressive Classifier
     - Comparing the above two ML algorithms
-- 2nd Model
+2nd Model
     - Using LSTM, one-hot representation
     - Sequential model with sigmoid activation function
     - Binary Cross entropy as loss function
